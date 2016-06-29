@@ -1,5 +1,7 @@
 # bash_aliases
 
+[![Join the chat at https://gitter.im/johncodesigns/bash_aliases](https://badges.gitter.im/johncodesigns/bash_aliases.svg)](https://gitter.im/johncodesigns/bash_aliases?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This contain a file named `.bash_aliases` which conatains basic alias commands  of `ubuntu`  
 ##How to Use
 It can be done in two ways 
